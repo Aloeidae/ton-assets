@@ -708,6 +708,13 @@
   "symbol": "APC"
  },
  {
+  "address": "0:f546ffff858be9864bc01f4a805bce4432e77a0a610217beeb60e85be12ca75d",
+  "description": "We have been working with liquidity pools for 11 years. We only work with the top 10 most established cryptocurrencies. We use 50% of the earned commissions to buy back the token",
+  "image": "https://i.ibb.co/4wRdmC0F/apex.jpg",
+  "name": "Apex",
+  "symbol": "APX"
+ },
+ {
   "address": "0:365c15bb3006d28eae67eed5b6fd2465af45eac09654d0beaeea62c530a742e5",
   "description": "The MOST EPIC crypto festival in the history of CIS, America and Asia! \ud83d\uddfd\ud83d\udc8e Join the legendary ARBUBA revolution on TON blockchain! Become part of crypto history! \ud83d\ude80\ud83c\udf1f",
   "image": "https://tonarbuz.fun/logo3.PNG",
@@ -1917,6 +1924,17 @@
   "symbol": "CHAIN"
  },
  {
+  "address": "0:718cd9b0a53cd230323afbf5f669defc7f09ef657c5d1d2ccdcb1ff4c25e67db",
+  "description": "CHEPE is a community meme token on TON.",
+  "image": "https://img.stonks.cash/32c2739e-7151-4ac7-8599-d1c8cd96b26f.png",
+  "name": "CHEPE",
+  "social": [
+   "https://t.me/chepechat",
+   "https://x.com/chepetonbot"
+  ],
+  "symbol": "CHEPE"
+ },
+ {
   "address": "0:c5680842c4ac744c6399f61f291332e2d3203e69a69639028e936e640177aeaf",
   "description": "Durov's Child - meme coin on TON.",
   "image": "https://i.postimg.cc/x1n76y6V/IMG-0428.jpg",
@@ -2417,6 +2435,21 @@
   "symbol": "DARK",
   "websites": [
    "https://x.com/coindark7"
+  ]
+ },
+ {
+  "address": "0:5378a66bf28e1ecfbe4a7d68d2cb86abe8fd706b15932e6f24ac685158d19d6a",
+  "decimals": 9,
+  "description": "DATA is the utility token of mAInetV2, powering rewards, staking, and ecosystem participation.",
+  "image": "https://web2.mainet.io/token/logo.png",
+  "name": "mAInetV2",
+  "social": [
+   "https://t.me/mainet_io",
+   "https://x.com/mainet_io"
+  ],
+  "symbol": "DATA",
+  "websites": [
+   "https://t.me/mainet2_bot"
   ]
  },
  {
@@ -3983,6 +4016,19 @@
   "symbol": "FLEX"
  },
  {
+  "address": "0:689b8b252c87adc7129b00c6110fad41430b3146747f4e6d003b97a3897b1262",
+  "description": "FlyON is the eagle mascot of Telegram / TON building culture. FlyON helps communities learn Telegram culture, understand TON basics and build together.",
+  "image": "https://assets.grambo.fun/mainnet/images/3dfb83e9e1c42f1924e74355efc18d09.png",
+  "name": "FlyON",
+  "social": [
+   "https://t.me/FlyOnHQ",
+   "https://t.me/FlyOnChat",
+   "https://x.com/FlyOnHQ",
+   "https://flyon.online/"
+  ],
+  "symbol": "FLYON"
+ },
+ {
   "address": "0:3df73622e9f14be0ade835332c99ce4375c191a020b002524168153ed614ac75",
   "description": "The hottest coin.",
   "image": "https://i.postimg.cc/4dvFmPhB/In-Shot-20250502-094433950.jpg",
@@ -4554,6 +4600,22 @@
   "symbol": "GOI"
  },
  {
+  "address": "0:5a4a6d644e691eed20f940d9531a2d6a3ccf3fe657c484d8e4eda079849eb0f7",
+  "decimals": 9,
+  "description": "Mine rewards by completing quests inside Telegram. No airdrop waitlist. Earn today, withdraw from $1.\n",
+  "image": "https://gomine.social/gomine-icon-512-v2.png",
+  "name": "GoMine",
+  "social": [
+   "https://x.com/GoMineApp",
+   "https://t.me/GoMineOfficial",
+   "https://t.me/GoMineCommunity"
+  ],
+  "symbol": "GOMINE",
+  "websites": [
+   "https://gomine.social"
+  ]
+ },
+ {
   "address": "0:bea20974a9de18fe4e580e13a5258fc77e9fe110694f641ee7fd3aca96265747",
   "description": "Deployed from sTONks Deployed from sTONks",
   "image": "https://img.stonks.cash/62997c40-2760-49c6-8710-80aadc089de9.png",
@@ -4600,6 +4662,13 @@
    "https://t.me/mine2mine_news"
   ],
   "symbol": "GPU"
+ },
+ {
+  "address": "0:a8d1b2329e914eb6df86ba78e8ef555871d9ae6526deab13d5d3e05dde82f2ff",
+  "description": "",
+  "image": "https://assets.grambo.fun/mainnet/images/4409b13711d9436a8fcc7784e5667901.jpg",
+  "name": "GRAMBO KITTY",
+  "symbol": "KITTY"
  },
  {
   "address": "0:0a040d7ffb058fdf53236c5a7e0a253b45962c51eb645681d31d3b98811f0a86",
@@ -4768,6 +4837,20 @@
   "symbol": "GOLD",
   "websites": [
    "https://digitgoldgame.com"
+  ]
+ },
+ {
+  "address": "0:3a3fa3bf5c31f454d15e74266ea292fb7bc51d4aa1fd604702d9bc334a3b58ca",
+  "description": "Grem is retarded Gram with meme vibe",
+  "image": "https://raw.githubusercontent.com/dn342658/Grem-imagee/e47bb47df5d6bdb5fbef351a723906aefca7e3d1/IMG_20260612_203509_907.4.jpg",
+  "name": "Grem",
+  "social": [
+   "https://t.me/gremcto",
+   "https://x.com/gremonton"
+  ],
+  "symbol": "GREM",
+  "websites": [
+   "https://grem.pw/"
   ]
  },
  {
@@ -5376,6 +5459,20 @@
   "symbol": "KAT",
   "websites": [
    "https://katknight.io/"
+  ]
+ },
+ {
+  "address": "0:fccb0fa85b6b43df5d4665eb4b332eec3ac2ef47ff99bd838b78b0bcd2feb9e3",
+  "decimals": 6,
+  "description": "KEI is the core utility token of KEI Network, the world's first Digital Clone Economy Network.",
+  "image": "https://autumn-field-cc2c.4xnbt5v5u.workers.dev/619.png",
+  "name": "KEI",
+  "social": [
+   "https://t.me/keivipbot"
+  ],
+  "symbol": "KEI",
+  "websites": [
+   "https://www.kei.vip"
   ]
  },
  {
@@ -6890,21 +6987,6 @@
   "symbol": "NISMO"
  },
  {
-  "address": "0:7a1c56ab22a1e0420091765bdc81ebd51dcd4235dca8ae794dccb8d666a53940",
-  "description": "The coin and its name speak for themselves, we want to show and test whether it is really that easy to create a coin from scratch and it can really grow!",
-  "image": "https://trueimages.ru/img/ba/87/3318bf76.png",
-  "name": "NITRO VAG",
-  "social": [
-   "https://t.me/crypto_mining_rvn_etc",
-   "https://t.me/vagrchat",
-   "https://x.com/vagr_"
-  ],
-  "symbol": "NITRO",
-  "websites": [
-   "https://vagr-drive.ru/"
-  ]
- },
- {
   "address": "0:298d02b5aa967706310231a2b41a4b1e592eea7e7840e585dd3fe60a5242b61e",
   "description": "Definitely NOT Pepe. Nope.",
   "image": "https://notpepe.fun/images/nope-logo.png",
@@ -7657,6 +7739,17 @@
   ]
  },
  {
+  "address": "0:267b9677ff0b1586f49e993bf0153a2ad80211cff3527c476228e81d23c1f5d4",
+  "description": "The original messenger. The Gram carrier pigeon.",
+  "image": "https://raw.githubusercontent.com/PANDAYPO/pombo-assets/main/Pombo.png",
+  "name": "Pombo gram",
+  "social": [
+   "https://t.me/durovlovespombo",
+   "https://x.com/PomboGram"
+  ],
+  "symbol": "POMBO"
+ },
+ {
   "address": "0:241bcf5b9c17cac2c529f19cea08933e0de2b1c28c25fcceee45a9fbb5b32530",
   "decimals": 9,
   "description": "PONCH is the native token of the Ponchiqs Game Studio, driving utility across all games and platforms. Use PONCH to purchase in-game items, trade NFTs, stake for rewards, and access exclusive content. Whether it\u2019s upgrading characters, earning rewards in tournaments, or buying collectible merchandise, PONCH connects players to an immersive, rewarding gaming experience. Play, earn, and own with PONCH \u2014 your gateway to the Ponchiqs ecosystem.",
@@ -7736,6 +7829,21 @@
    "https://t.me/b_Appka_hub"
   ],
   "symbol": "PRZH"
+ },
+ {
+  "address": "0:664754b64dd7820cc97de7a231ce867b20fc787fe0f6b3a163dac7a8531472d5",
+  "description": "$PUBG is the utility token powering PUBGPRO.gg; It serves as the entry key for skill-based PUBG tournaments, the stake for access to higher-prize competitions, and the reward medium for winning players. By holding and staking PUBG, participants unlock premium brackets, earn referral commissions, and join profit-sharing pools.",
+  "image": "https://pubgpro.gg/uploads/pubg-coin.png",
+  "name": "PUBG",
+  "social": [
+   "https://t.me/pubgru",
+   "https://www.twitch.tv/PUBGPROTV",
+   "https://discord.com/invite/rupubg"
+  ],
+  "symbol": "PUBG",
+  "websites": [
+   "https://pubgpro.gg"
+  ]
  },
  {
   "address": "0:5ed4305480c4809e3c65fe2149628b4249eebb7ffe3d40f928c5454040b3d90e",
@@ -7946,6 +8054,17 @@
    "https://empiresbattle.com",
    "https://t.me/EmpiresBattleBot"
   ]
+ },
+ {
+  "address": "0:2659d5b31b87ee051cbf7acba6ec09e8a59693c5c9a61f7268a038abf68ca41a",
+  "description": "QUBY is a cute sticker character created by Chinese artist Zhong Chaoneng in 2015 for WeChat. It became hugely popular because of its funny, exaggerated emotions that people could understand without words.",
+  "image": "https://i.ibb.co/Kx2rwZF2/photo-2024-06-11-16-27-33.jpg",
+  "name": "QUBY",
+  "social": [
+   "https://t.me/realquby",
+   "https://x.com/qubyonton?s=21"
+  ],
+  "symbol": "QUBY"
  },
  {
   "address": "0:f6a6ba4d05f0916b47d9a521c9be9bea153ee15bc4b0eae85cc468262005a280",
@@ -8439,7 +8558,7 @@
  {
   "address": "0:d5d10f1eb8f3ddb311df68e4009ad743ae1de3e68fe874c60824ce27ba250eea",
   "description": "Scared Cats is a community-led CTO project on TON, based on the famous Telegram collectible Scared Cats. The project is now managed by the community, with secured official links and updated public metadata.",
-  "image": "https://i.postimg.cc/zXTgSH42/scatcto.avif",
+  "image": "https://i.postimg.cc/nL8PytKT/scatcto.avif",
   "name": "Scared Cats",
   "social": [
    "https://x.com/Scaredcatcto",
@@ -10858,6 +10977,20 @@
   ]
  },
  {
+  "address": "0:5fc0c6cac7ed5236536c0d393a6429d342571d97fe55c72d3751d130869a0899",
+  "decimals": 9,
+  "description": "WAAO is a Web3 entertainment token connecting K-POP fans worldwide into a unified global community.",
+  "image": "https://waao.io/images/waao-logo.png",
+  "name": "WAAO",
+  "social": [
+   "https://www.instagram.com/waao.official"
+  ],
+  "symbol": "WAAO",
+  "websites": [
+   "https://www.waao.io"
+  ]
+ },
+ {
   "address": "0:e61af89164dab2cebe8afd66b7aef9edbc345a1b18d4c504bf648f9faaa38526",
   "description": "Inspired by Where's Waldo",
   "image": "https://waldonton.com/images/07be62d038ecd50c77aad06033bbc6f4.png",
@@ -12757,7 +12890,7 @@
  },
  {
   "address": "0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc",
-  "image": "https://hpo.hipo.finance/hpo.png",
+  "image": "https://hipo.finance/hpo.svg",
   "name": "Hipo Governance Token",
   "social": [
    "https://t.me/HipoFinance",
@@ -12767,7 +12900,7 @@
   ],
   "symbol": "HPO",
   "websites": [
-   "https://hpo.hipo.finance"
+   "https://hipo.finance/hpo"
   ]
  },
  {
@@ -13771,11 +13904,6 @@
   "address": "0:714b940b57df65eeacc6129133d795a79f2eae088c7a66fde7fc8aed22346036",
   "name": "Mr Greene",
   "symbol": "GREENE"
- },
- {
-  "address": "0:3a3fa3bf5c31f454d15e74266ea292fb7bc51d4aa1fd604702d9bc334a3b58ca",
-  "name": "Grem",
-  "symbol": "GREM"
  },
  {
   "address": "0:3a1b4b951110d94e42cd6b476b5819dad45e5349ba20cbb5171165391111f3e2",
@@ -18234,6 +18362,18 @@
   "decimals": 9,
   "name": "Shards of Notcoin NFT bond",
   "symbol": "wNOT"
+ },
+ {
+  "address": "0:5fae639d4ac74b3a4d6d8b3cf1dfb24aa005bb1b42c73afb7465bf29567939ee",
+  "decimals": 9,
+  "description": "Shadow Kitty is a community-driven meme token on The Open Network.",
+  "image": "https://i.postimg.cc/DZGqN9r8/shadowskitty.jpg",
+  "name": "Shadow Kitty",
+  "social": [
+   "https://x.com/Skittygram",
+   "https://t.me/skittygram"
+  ],
+  "symbol": "SKITTY"
  },
  {
   "address": "0:18e6b35d1de56e8f225425cb6faa65362597b7a1e6c0816b3c842185d3abeb63",
